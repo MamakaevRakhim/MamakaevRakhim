@@ -1,1 +1,1 @@
-![gif](https://github.com/MamakaevRakhim/project-football/blob/Rakhim/client/main.gif)
+![gif](https://github.com/MamakaevRakhim/MamakaevRakhim/blob/main/assets/video_2021-10-05_14-00-36.gif)
