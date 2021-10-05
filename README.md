@@ -53,12 +53,13 @@
 
 ## В ближайшее время хотел бы изучить:
 
+<div>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue js&color=000000&logo=v&logoColor=purple&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=000000&logo=typescript&logoColor=orange&label="/>
+</div>
 
 ### Связаться со мной:
 
-<div>
+<
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Chelovek955)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-black?style=social&logo=whatsapp)](https://api.whatsapp.com/send?phone=79640746397&text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%2C%20%D1%8F%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83...)
-</div>
