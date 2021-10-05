@@ -13,6 +13,7 @@
 
 ## Технологии которые я использую:
 
+<div>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow" alt="js"/>
 <img src="https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=lightblue" alt="js"/>
 <img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=gree" alt="nodejs"/>
@@ -46,6 +47,7 @@
 <img alt="bcrypt" src="https://img.shields.io/badge/dotenv-✔-green?style=for-the-badge&logo=dotenv">
 <img alt="bcrypt" src="https://img.shields.io/badge/http_status-✔-green?style=for-the-badge&logo=http">
 <img alt="bcrypt" src="https://img.shields.io/badge/style components-✔-green?style=for-the-badge&logo=style">
+</div>
 
 <p>✔ Имеется опыт в адаптивной верстке</p>
 
