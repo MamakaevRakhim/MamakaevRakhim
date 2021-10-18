@@ -8,7 +8,7 @@
 > [Код](https://github.com/MamakaevRakhim/project-football)
 
 ### - Сайт для кофейни
-> [Код](https://github.com/adam-azhigov/BackendSolo)
+> [Код](https://github.com/MamakaevRakhim/project-coffee)
 
 
 ## Технологии которые я использую:
