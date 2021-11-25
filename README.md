@@ -7,8 +7,6 @@
 
 > [Код](https://github.com/MamakaevRakhim/project-football)
 
-> [Демо](https://football-events.herokuapp.com)
-
 ### - Сайт для кофейни
 > [Код](https://github.com/MamakaevRakhim/project-coffee)
 
