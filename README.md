@@ -3,12 +3,12 @@
 <p>Мне 19 лет, я Fullstack разработчик, стремлюсь развивать свои навыки. В работе я объединяю креативность и стратегию. Открыт к новым знаниям.</p>
 
 ## Мои проекты:
-#### - Проект для любителей футбола ###
-> [Код](https://github.com/MamakaevRakhim/project-football)
 #### - Проект для студентов
 > [Код](https://github.com/MamakaevRakhim/iqa-frontend)
  
 > [Демо](https://iqa.intocode.ru/)
+#### - Проект для любителей футбола ###
+> [Код](https://github.com/MamakaevRakhim/project-football)
 ## Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Chelovek955)
