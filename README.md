@@ -9,6 +9,8 @@
 > [Демо](https://iqa.intocode.ru/)
 #### - Проект для любителей футбола ###
 > [Код](https://github.com/MamakaevRakhim/project-football)
+
+> [Демо](https://football-events.herokuapp.com/)
 ## Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Chelovek955)
